@@ -1,5 +1,1 @@
-Lionel Hutz
-Troy McClure
-Waylon Smithers
-Crazy Cat Lady
-Yo mamma
+<p>Hello world. We learned the 12 steps to publishing high-quality data. In this third module, we examine where local authorities can find the right support to help them publish good quality, consistent open data. We will also look at how you can certify your data to tell everyone about its quality..</p><p>In this module you will learn:</p><ul><li>How standard structures can make your data more useful</li><li>How to find and use common schemas for your datasets</li><li>How to develop your own schema if none is available</li><li>How to certify the quality of your data</li></ul></p><p>This module also provides useful links out to supporting documents and services that can help save time in your publication.</p>
